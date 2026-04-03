@@ -1,0 +1,6 @@
+[submodule "spring-security-app"]
+	path = spring-security-app
+	url = git@github.com:RaviGit18/spring-security-app.git
+[submodule "spring-security-ldap-app"]
+	path = spring-security-ldap-app
+	url = git@github.com:RaviGit18/spring-security-ldap-app.git
