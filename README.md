@@ -83,15 +83,3 @@ Each module contains its own application configuration:
 - Application properties in `application.properties`
 - User credentials and role definitions
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Run the test suite
-6. Submit a pull request
-
-## License
-
-This project is for educational and demonstration purposes.
