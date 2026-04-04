@@ -4,12 +4,3 @@
 [submodule "spring-security-ldap-app"]
 	path = spring-security-ldap-app
 	url = git@github.com:RaviGit18/spring-security-ldap-app.git
-[submodule "springsecurity-facebook-login"]
-	path = springsecurity-facebook-login
-	url = git@github.com:RaviGit18/springsecurity-facebook-login.git
-[submodule "spring-boot-outh2-client"]
-	path = spring-boot-outh2-client
-	url = git@github.com:RaviGit18/spring-boot-outh2-client.git
-[submodule "spring-boot-outh2-server"]
-	path = spring-boot-outh2-server
-	url = git@github.com:RaviGit18/spring-boot-outh2-server.git
